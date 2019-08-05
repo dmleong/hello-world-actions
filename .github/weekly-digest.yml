@@ -2,6 +2,6 @@
 publishDay: thursday
 canPublishIssues: true
 canPublishPullRequests: true
-canPublishContributors: true
+canPublishContributors: false
 canPublishStargazers: false
-canPublishCommits: true
+canPublishCommits: false
